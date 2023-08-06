@@ -1,0 +1,19 @@
+.dias {
+    color: blue;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.horarios{
+    font-style: italic;
+    font-size: 17px;
+    color: black;
+    text-align: center;
+}
+.horarios2{
+    font-style: italic;
+    font-size: 17px;
+    color: red;
+    text-align: center;
+}
